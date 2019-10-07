@@ -1,0 +1,28 @@
+C:\Users\Valesz\source\repos\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.deps.json
+C:\Users\Valesz\source\repos\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.runtimeconfig.json
+C:\Users\Valesz\source\repos\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.runtimeconfig.dev.json
+C:\Users\Valesz\source\repos\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.dll
+C:\Users\Valesz\source\repos\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.pdb
+C:\Users\Valesz\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.csprojAssemblyReference.cache
+C:\Users\Valesz\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.csproj.CoreCompileInputs.cache
+C:\Users\Valesz\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.RazorAssemblyInfo.cache
+C:\Users\Valesz\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.RazorAssemblyInfo.cs
+C:\Users\Valesz\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.AssemblyInfoInputs.cache
+C:\Users\Valesz\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.AssemblyInfo.cs
+C:\Users\Valesz\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.RazorTargetAssemblyInfo.cache
+C:\Users\Valesz\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.dll
+C:\Users\Valesz\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.pdb
+C:\Users\tisamo\Desktop\crud_demo (1)\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.deps.json
+C:\Users\tisamo\Desktop\crud_demo (1)\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.runtimeconfig.json
+C:\Users\tisamo\Desktop\crud_demo (1)\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.runtimeconfig.dev.json
+C:\Users\tisamo\Desktop\crud_demo (1)\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.dll
+C:\Users\tisamo\Desktop\crud_demo (1)\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.pdb
+C:\Users\tisamo\Desktop\crud_demo (1)\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.csproj.CoreCompileInputs.cache
+C:\Users\tisamo\Desktop\crud_demo (1)\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.RazorAssemblyInfo.cache
+C:\Users\tisamo\Desktop\crud_demo (1)\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.RazorAssemblyInfo.cs
+C:\Users\tisamo\Desktop\crud_demo (1)\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.AssemblyInfoInputs.cache
+C:\Users\tisamo\Desktop\crud_demo (1)\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.AssemblyInfo.cs
+C:\Users\tisamo\Desktop\crud_demo (1)\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.RazorTargetAssemblyInfo.cache
+C:\Users\tisamo\Desktop\crud_demo (1)\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.dll
+C:\Users\tisamo\Desktop\crud_demo (1)\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.pdb
+C:\Users\tisamo\Desktop\crud_demo (1)\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.csprojAssemblyReference.cache
